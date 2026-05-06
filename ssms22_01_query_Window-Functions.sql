@@ -143,3 +143,15 @@ select
 	Rank() OVER (order by sum(sales) desc) Rankcustomers
 from sales.Orders
 group by CustomerID
+
+
+
+
+
+
+
+
+
+
+
+
