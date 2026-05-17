@@ -1,0 +1,23 @@
+SELECT * from DIM_CUSTOMER
+
+
+
+SELECT * from DIM_DATE
+
+
+
+SELECT * from DIM_LOCATION
+
+
+
+SELECT * from DIM_MANUFACTURER
+
+
+
+SELECT * from DIM_MODEL
+
+
+
+SELECT * from FACT_TRANSACTIONS
+
+
